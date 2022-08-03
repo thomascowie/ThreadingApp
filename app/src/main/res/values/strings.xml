@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Group12_InClass06</string>
+    <string name="SelectComplexityText">Select Complexity</string>
+    <string name="btnGenerateText">Generate</string>
+</resources>
